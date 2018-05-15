@@ -5,10 +5,8 @@
              x:Class="BuscaCep.MainPage">
 
     <StackLayout>
-        <!-- Place new controls here -->
-    	<Label Text="Oi, eu sou o Goku!" 
-           HorizontalOptions="Center"
-           VerticalOptions="CenterAndExpand" />
+        <Entry x:Name="txtCep" Placeholder="Informe o CEP" />
+        <Button x:Name="btnBuscarCep" Text="Buscar" Clicked="BtnBuscarCep_Clicked"/>
     </StackLayout>
 
 </ContentPage>
