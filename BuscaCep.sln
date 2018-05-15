@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuscaCep.Android", "BuscaCep\BuscaCep.Android\BuscaCep.Android.csproj", "{35A6FD8E-C690-488D-9ABD-E078F5E7BFB7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuscaCep", "BuscaCep\BuscaCep\BuscaCep.csproj", "{78521CA8-F8A2-4472-862A-3816BA5C3D61}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35A6FD8E-C690-488D-9ABD-E078F5E7BFB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35A6FD8E-C690-488D-9ABD-E078F5E7BFB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35A6FD8E-C690-488D-9ABD-E078F5E7BFB7}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{35A6FD8E-C690-488D-9ABD-E078F5E7BFB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35A6FD8E-C690-488D-9ABD-E078F5E7BFB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35A6FD8E-C690-488D-9ABD-E078F5E7BFB7}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{78521CA8-F8A2-4472-862A-3816BA5C3D61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78521CA8-F8A2-4472-862A-3816BA5C3D61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78521CA8-F8A2-4472-862A-3816BA5C3D61}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{78521CA8-F8A2-4472-862A-3816BA5C3D61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78521CA8-F8A2-4472-862A-3816BA5C3D61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78521CA8-F8A2-4472-862A-3816BA5C3D61}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {73CDBBB9-4470-4D13-BD44-CE55F9ADAFCB}
+	EndGlobalSection
+EndGlobal
