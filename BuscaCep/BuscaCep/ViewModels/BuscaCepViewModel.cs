@@ -39,6 +39,7 @@ namespace BuscaCep.ViewModels
             }
         }
 
+        //Código simplificado da definição get da propriedade BuscarCommand (linha 29)
         //public Command BuscarCommand => 
         //    _buscarCommand ?? (_buscarCommand = new Command(async () => await BuscarCommandExecute())); 
 
